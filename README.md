@@ -65,7 +65,8 @@
 - **이미지 서버**: AWS S3
 - **배포 및 자동화**: Docker, GitHub CI/CD
 - **백엔드 서버**: AWS EC2 + Spring Boot
-    - ![시스템 아키텍처 다이어그램](https://path/to/architecture_image.png)
+    - (![image](https://github.com/user-attachments/assets/96a5aefa-6d9c-410f-be90-de519cd33100)
+
 
 ---
 
